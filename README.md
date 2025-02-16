@@ -1,8 +1,8 @@
 # ✨ About Me:
 
-👋 Hi, I'm [Your Name]  
+👋 Hi, I'm Al Hassan Zakriti
 
-🎓 Engineering Student in [Your Field] @ [Your University]  
+🎓 Engineering Student in Mathematics and Computer Science @ the Faculty of Science and Technology Mohammedia  
 
 💻 Full-Stack Web Developer passionate about building scalable and efficient applications  
 
