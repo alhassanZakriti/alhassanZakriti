@@ -2,8 +2,7 @@
 
 👋 Hi, I'm Al Hassan Zakriti
 
-🎓 Mathematics and Computer Science Engineer @ the Faculty of Science and Technology Mohammedia  
-
+🎓 Mathematics and Computer Science Engineering Graduate 
 💻 Full-Stack Web Developer passionate about building scalable and efficient applications  
 
 🚀 Skilled in:  
